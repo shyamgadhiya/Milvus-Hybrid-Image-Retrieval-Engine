@@ -1,0 +1,5 @@
+timestamp,corpus_size,index_type,metric_type,cold_latency_ms,warm_latency_ms,p50_latency_ms,p95_latency_ms,unfiltered_latency_ms,filtered_latency_ms,filter_overhead_ms
+2026-09-24 11:36:04,1000,HNSW,COSINE,12.1,8.7,7.01,8.61,7.21,8.47,1.26
+2026-09-24 12:20:40,6000,HNSW,COSINE,16.8,14.03,10.44,13.35,14.86,16.1,1.23
+2026-09-24 13:40:29,1000,FLAT,COSINE,9.51,8.88,7.39,8.42,7.85,4.94,-2.91
+2026-09-24 14:10:36,6000,FLAT,COSINE,33.81,32.34,29.34,30.86,30.01,11.96,-18.05

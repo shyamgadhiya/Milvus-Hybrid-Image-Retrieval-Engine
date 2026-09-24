@@ -1,0 +1,10 @@
+torch
+torchvision
+transformers
+pillow
+pymilvus
+tqdm
+requests
+datasets
+pymilvus[milvus-lite]
+streamlit

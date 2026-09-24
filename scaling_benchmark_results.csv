@@ -1,0 +1,4 @@
+scale,ingest_time_sec,db_size_mb,cold_latency_ms,warm_latency_ms,p50_latency_ms,p95_latency_ms,filtered_latency_ms,filter_overhead_ms
+1000,0.21,0.0,44.56,48.21,39.34,48.45,39.79,-8.42
+10000,2.85,0.0,35.93,53.26,12.5,68.11,7.21,-46.04
+100000,47.25,0.0,684.38,712.47,198.56,835.61,54.27,-658.21

@@ -1,0 +1,42 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Milvus Local Database & Locks
+milvus_project5_lab.db/
+milvus_synthetic_scale.db/
+*.db/
+*.lock
+*.sqlite
+*.sqlite3
+
+# Downloaded Image Corpus (large binary files)
+image_corpus/
+*.jpg
+*.jpeg
+*.png
+*.webp
+
+
+# Environment Variables & Keys
+.env
+.env.local
+*.env
+
+
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+[Dd]esktop.ini
