@@ -86,6 +86,7 @@ flowchart TD
 ├── .gitignore                     # Git ignore rules for virtualenvs, DBs, and images
 └── README.md                      # Project documentation
 ```
+<img width="1851" height="887" alt="image" src="https://github.com/user-attachments/assets/e963e078-f352-4c72-aafd-e05a4ff3ca9a" />
 
 ---
 
@@ -97,7 +98,7 @@ flowchart TD
 
 ### 2. Clone the Repository
 ```bash
-git clone https://github.com/your-username/project5-milvus-vector-database.git
+git clone https://github.com/shyamgadhiya/project5-milvus-vector-database.git
 cd "Project 5 Advance Milvus Vector Database"
 ```
 
