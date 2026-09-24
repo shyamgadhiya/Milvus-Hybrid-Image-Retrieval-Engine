@@ -98,7 +98,7 @@ flowchart TD
 
 ### 2. Clone the Repository
 ```bash
-git clone https://github.com/shyamgadhiya/project5-milvus-vector-database.git
+git clone https://github.com/shyamgadhiya/Milvus-Hybrid-Image-Retrieval-Engine.git
 cd "Project 5 Advance Milvus Vector Database"
 ```
 
